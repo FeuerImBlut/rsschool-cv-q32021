@@ -123,7 +123,6 @@ font-weight: bold;
 .section-title {
 	position: relative;
 	margin-top:10px;
-	/* margin: 0; */
 	margin-bottom: 18px;
 	padding-left: 30px;
 	font-size: 24px;
@@ -160,14 +159,9 @@ font-weight: bold;
     background-color: rgba(115, 115, 245, 0.5);
 }
 
-/* @font-face{ */
-  /* font-family: "Collegia"; */
-  /* src: url("/fonts/collegia.ttf") format("truetype"); */
-/* } */
-
 @font-face {
 font-family: "Collegia"; 
-src: url("../CV/fonts/COLLEGIA.ttf") format("truetype"); 
+src: url("fonts/COLLEGIA.ttf") format("truetype"); 
 font-style: normal; 
 font-weight: normal; 
 } 
