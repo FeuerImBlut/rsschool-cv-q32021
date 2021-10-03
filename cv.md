@@ -49,5 +49,6 @@ WORK EXPERIENCE
 EDUCATION
   * September 2008 – June 2013
     Belarusian National Technical University, Minsk, Belarus Bachelor
+
     Information Systems and Technologies (major in Information Processing and Displaying)
 
