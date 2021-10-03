@@ -4,10 +4,6 @@
 	--color-one: #9494d0; /*blue-gray*/
 	--color-two: darkorange;
 }
-
-
-
-
 html {
 	background-color: white;
 }
@@ -17,7 +13,6 @@ header {
 	flex-direction: row;
 	font-size: 30px;
 }
-
 
 body {
 	margin: auto;
@@ -164,4 +159,8 @@ font-weight: bold;
 	src: url("fonts/COLLEGIA.ttf") format("truetype"); 
 	font-style: normal; 
 	font-weight: normal; 
+font-family: "Collegia"; 
+src: url("fonts/COLLEGIA.ttf") format("truetype"); 
+font-style: normal; 
+font-weight: normal; 
 } 
