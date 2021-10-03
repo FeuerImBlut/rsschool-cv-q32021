@@ -1,3 +1,3 @@
 # rsschool-cv
 rsschool cv task
-https://feuerimblut.github.io/rsschool-cv/
+https://FeuerImBlut.github.io/rsschool-cv/cv
